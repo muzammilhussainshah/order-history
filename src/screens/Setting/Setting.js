@@ -1,9 +1,8 @@
 import * as React from 'react';
-import { Text, View } from 'react-native';
-
+import { Text } from 'react-native';
 
 export default Setting = () => {
     return (
-       <Text>Setting</Text>
+        <Text>Setting</Text>
     );
 }

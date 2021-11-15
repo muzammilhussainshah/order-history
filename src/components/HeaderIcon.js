@@ -1,9 +1,8 @@
 import * as React from 'react';
-import { Text, View, TouchableOpacity, BackHandler } from 'react-native';
+import { TouchableOpacity, BackHandler } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import styles from './style';
 import { useNavigation } from '@react-navigation/native';
-
 
 export default HeaderIcon = () => {
     const navigation = useNavigation();

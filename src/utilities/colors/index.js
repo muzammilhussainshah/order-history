@@ -2,7 +2,7 @@ export const colors = {
   // App Colors
   white: '#ffffff',
   red: '#C24C47',
-  yellow:'#F9D082',
+  yellow:'#F4C161',
   green:'#8AC444',
   blurIcon:'#B6B6B6',
   focusIcon:'#973E4E',
